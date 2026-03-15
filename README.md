@@ -27,3 +27,4 @@ If y represents the dependent variable and x the independent variable, this rela
 # Result
 
 # Output 
+"C:\Users\rahul\OneDrive\Pictures\Vinothini\prob3.jpeg"
